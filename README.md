@@ -27,7 +27,3 @@ En el caso de los formatos, las pláticas pueden ser en formato **Abierto**, **P
 El objetivo de proponer un tema es que algún miembro del bootcamp con experiencia en tal tema o inclusive la persona que propuso el tema, lo adopte, y se lleve a cabo una plática o demo relacionada al tema previamente propuesto.
 
 Los temas propuestos de deben agregar en la sección de [issues](https://github.com/JavierParral/Bootcamp/issues) y deberán ser etiquetados para poder llevar un correcto seguimiento de la plática.
-
-## Recuerda Votar
-
-Si existe algún tema de tu interés en la lista de issues recuerda votar con :+1: el issue para que se priorize y se trabaje más rápido ese tema, si el tema en si no existe en la lista puedes agregarlo y al mismo tiempo votar por el.
